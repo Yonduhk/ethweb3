@@ -9,7 +9,7 @@
  * @license MIT
  */
 
-namespace Web3\RLP;
+namespace EthWeb3\RLP;
 
 use InvalidArgumentException;
 use RuntimeException;
