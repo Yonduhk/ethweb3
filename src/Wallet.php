@@ -1,10 +1,10 @@
 <?php
 
-namespace Web3;
+namespace EthWeb3;
 
 use Elliptic\EC;
 use kornrunner\Keccak;
-use Web3\RLP\RLP;
+use EthWeb3\RLP\RLP;
 
 class Wallet
 {
