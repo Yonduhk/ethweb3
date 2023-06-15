@@ -1,5 +1,5 @@
 {
-    "name": "kgs/web3",
+    "name": "yonduhk/ethweb3",
     "description": "A simple encapsulation of Web3 framework in PHP environment.\n",
     "type": "library",
     "keywords": ["eth", "web3", "contract", "sign", "usdt", "dai"],
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Web3\\": "src/"
+            "EthWeb3\\": "src/"
         }
     },
     "minimum-stability": "dev",
