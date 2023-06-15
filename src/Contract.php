@@ -1,6 +1,6 @@
 <?php
 
-namespace Web3;
+namespace EthWeb3;
 
 use kornrunner\Keccak;
 
